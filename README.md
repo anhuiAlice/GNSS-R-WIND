@@ -1,5 +1,5 @@
 # GNSS-R-WIND
-##Global Navigation Satellite System-Reflectometry (GNSS-R) is a relatively new
+## Global Navigation Satellite System-Reflectometry (GNSS-R) is a relatively new
 field in remote sensing that uses reflected signals from the Earth is surface
 to study the state of the surface geophysical parameters under observation. In
 sea remote sensing, GNSS-R can measure sea height, retrieve sea surface wind
@@ -23,4 +23,4 @@ reach 1.71 m/s in the wind speed range of 0-35 m/s. It is worth noting that the
 RMSE under high wind speed conditions can be reduced from 7.05 m/s of the
 classic algorithm to 2.73 m/s, and the RMSE is reduced by 60.9%. The RMSE
 in correctly classified high wind speed samples is 1.38 m/s, which is up to 83.2%
-lower than the traditional model.##
+lower than the traditional model. ##
