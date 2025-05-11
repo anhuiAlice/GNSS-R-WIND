@@ -12,3 +12,5 @@ RMSE under high wind speed conditions can be reduced from 7.05 m/s of the
 classic algorithm to 2.73 m/s, and the RMSE is reduced by 60.9%. The RMSE
 in correctly classified high wind speed samples is 1.38 m/s, which is up to 83.2%
 lower than the traditional model. 
+
+Test for git desktop
