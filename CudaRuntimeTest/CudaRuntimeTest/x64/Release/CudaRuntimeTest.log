@@ -1,0 +1,7 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  D:\C++code\CudaRuntimeTest\CudaRuntimeTest>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "D:\Visual_Studio\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\include"     --keep-dir x64\Release  -maxrregcount=0  --machine 64 --compile -cudart static    -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Fdx64\Release\vc143.pdb /FS   /MD " -o x64\Release\kernel.cu.obj "D:\C++code\CudaRuntimeTest\CudaRuntimeTest\kernel.cu" 
+  kernel.cu
+    正在创建库 D:\C++code\CudaRuntimeTest\x64\Release\CudaRuntimeTest.lib 和对象 D:\C++code\CudaRuntimeTest\x64\Release\CudaRuntimeTest.exp
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  CudaRuntimeTest.vcxproj -> D:\C++code\CudaRuntimeTest\x64\Release\CudaRuntimeTest.exe

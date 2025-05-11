@@ -1,0 +1,6 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  D:\C++code\CudaRuntimeTest\CudaRuntimeTest>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "D:\Visual_Studio\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "D:\C++code\CudaRuntimeTest\CudaRuntimeTest\kernel.cu" 
+  kernel.cu
+    正在创建库 D:\C++code\CudaRuntimeTest\x64\Debug\CudaRuntimeTest.lib 和对象 D:\C++code\CudaRuntimeTest\x64\Debug\CudaRuntimeTest.exp
+  CudaRuntimeTest.vcxproj -> D:\C++code\CudaRuntimeTest\x64\Debug\CudaRuntimeTest.exe
